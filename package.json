@@ -56,8 +56,7 @@
     "setprototypeof": "1.1.1",
     "statuses": "~1.5.0",
     "type-is": "~1.6.18",
-    "utils-merge": "1.0.1",
-    "vary": "~1.1.2"
+    "utils-merge": "1.0.1"
   },
   "devDependencies": {
     "after": "0.8.2",
